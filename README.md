@@ -16,3 +16,5 @@ like to keep it how it was in the video.
 Oh and, funnily enough, this wasn't actually ever supposed
 to be a video, this was supposed to be part of a larger datapack I was
 making.
+
+Edit: I just realize I'm talking about how inefficient it is rather than how useless it is
