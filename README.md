@@ -11,7 +11,7 @@ Some things you might like to know, yes I'm aware how incredibly inefficient thi
 In truth, I made this datapack over a year ago, display entities weren't out yet,
 I was still learning about the importance of functions, and efficiency with execute commands.
 just so you know, I wont be accepting any pull requests (if that's the right word) because I'd
-like to keep it how it was in the video.
+like to keep it how it was in my video.
 
 Oh and, funnily enough, this wasn't actually ever supposed
 to be a video, this was supposed to be part of a larger datapack I was
