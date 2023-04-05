@@ -1,0 +1,7 @@
+{"parent": "item/generated","textures": {"layer0": "item/glow_item_frame"},"overrides": 
+    [
+        { "predicate": {"custom_model_data": 1}, "model": "replacement/torch/floor"},
+        { "predicate": {"custom_model_data": 2}, "model": "replacement/torch/wall"},
+        { "predicate": {"custom_model_data": 3}, "model": "replacement/torch/place_holder"}
+    ]}
+
